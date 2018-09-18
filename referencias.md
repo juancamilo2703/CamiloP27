@@ -1,17 +1,4 @@
 <html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    width: 100%;
-}
-
-td, th {
-   text-align: left;
-}
-
-</style>
-</head>
 <body>
 
 <body style="background-color:hsla(0,100%,50%,0.5);">
