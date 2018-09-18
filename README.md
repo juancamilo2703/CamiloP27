@@ -14,8 +14,6 @@ td, th {
 </head>
 <body>
 
-<body style="background-color:hsla(0,100%,50%,0.5);">
-<img src="estudiar.jpg" alt="Estudiar" style="width="500" height="600";>
 <h1 style="background-color:SlateBlue;">Juan Camilo Parra</h1>
 <h2>Estudios</h2>
 <table>
