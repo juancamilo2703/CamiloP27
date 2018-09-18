@@ -1,8 +1,5 @@
 <html>
 <body>
-
-<body style="background-color:hsla(0,100%,50%,0.5);">
-<img src="trabajo.jpg" alt="Trabajo" style="width="500" height="600";>
 <h1 style="background-color:SlateBlue;">Juan Camilo Parra</h1>
 <h2>Referencias Laborales</h2>
 <table>
