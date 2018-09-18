@@ -1,17 +1,4 @@
 <html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    width: 100%;
-}
-
-td, th {
-   text-align: left;
-}
-
-</style>
-</head>
 <body>
 
 <h1 style="background-color:SlateBlue;">Juan Camilo Parra</h1>
